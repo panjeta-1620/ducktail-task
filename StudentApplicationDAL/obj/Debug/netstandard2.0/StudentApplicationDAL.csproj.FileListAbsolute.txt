@@ -1,0 +1,12 @@
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\bin\Debug\netstandard2.0\StudentApplicationEntities.dll
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.csprojAssemblyReference.cache
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.AssemblyInfoInputs.cache
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.AssemblyInfo.cs
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\bin\Debug\netstandard2.0\StudentApplicationDAL.deps.json
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\bin\Debug\netstandard2.0\StudentApplicationDAL.dll
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\bin\Debug\netstandard2.0\StudentApplicationDAL.pdb
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\bin\Debug\netstandard2.0\StudentApplicationEntities.pdb
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.csproj.CoreCompileInputs.cache
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.csproj.CopyComplete
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.dll
+E:\Abhi question\StudentApplicationSol\StudentApplicationDAL\obj\Debug\netstandard2.0\StudentApplicationDAL.pdb

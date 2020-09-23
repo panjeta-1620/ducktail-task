@@ -1,0 +1,9 @@
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\bin\Debug\netstandard2.0\StudentApplicationEntities.deps.json
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\bin\Debug\netstandard2.0\StudentApplicationEntities.dll
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\bin\Debug\netstandard2.0\StudentApplicationEntities.pdb
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\obj\Debug\netstandard2.0\StudentApplicationEntities.csprojAssemblyReference.cache
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\obj\Debug\netstandard2.0\StudentApplicationEntities.csproj.CoreCompileInputs.cache
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\obj\Debug\netstandard2.0\StudentApplicationEntities.AssemblyInfoInputs.cache
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\obj\Debug\netstandard2.0\StudentApplicationEntities.AssemblyInfo.cs
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\obj\Debug\netstandard2.0\StudentApplicationEntities.dll
+E:\Abhi question\StudentApplicationSol\StudentApplicationEntities\obj\Debug\netstandard2.0\StudentApplicationEntities.pdb
